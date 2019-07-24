@@ -3,3 +3,4 @@ test for conflict 1=2
 hakjs
 sahdkja
 adhkja
+test line
